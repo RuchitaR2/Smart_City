@@ -1,0 +1,14 @@
+IR enter gate = D0
+IR back gate = D7
+IR car slot 1 = D6
+IR car slot 2 = D4
+IR car slot 3 = D8
+IR car slot 4 = D5
+
+
+Gate Light = S2
+Parking Light = S3
+
+
+Servo pin = D3
+
